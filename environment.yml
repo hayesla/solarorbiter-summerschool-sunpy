@@ -1,0 +1,16 @@
+name: sunpy-tutorial
+channels:
+- conda-forge
+dependencies:
+- python=3.9  
+- pip
+- graphviz
+- pip:
+  - ipykernel
+  - sunpy[all]
+  - reproject
+  - aiapy
+  - pfsspy[performance]
+  - sunkit-image
+  - sunpy-soar
+  - ipywidgets
