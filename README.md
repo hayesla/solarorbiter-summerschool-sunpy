@@ -13,8 +13,20 @@ These notebooks are heavily based on other tutorials such as the [AAS/SPD meetin
 
 
 -----------------------------------
+## Resources
 
-# How to run these notebooks
+Below are a few helpful links for finding out more about SunPy, including our webpage, documentation, and our Matrix channel:
+
+* [sunpy.org](https://sunpy.org/)
+* [SunPy Documentation](https://docs.sunpy.org/en/stable/)
+* [List of Affiliated Packages](https://sunpy.org/project/affiliated.html)
+* [Matrix Chat](https://openastronomy.element.io/#/room/#sunpy:openastronomy.org)
+* [OpenAstronomy Discourse](https://community.openastronomy.org/c/sunpy/5)
+
+
+# How to run these notebooks:
+===========================================
+
 
 ## Run in Binder
 If you don't want to run these locally, or you are having issues with getting them started - all the notebooks in this repository can be run with binder. Click here [![Binder](https://mybinder.org/badge_logo.svg)](
@@ -54,7 +66,7 @@ You can then activate this environment by typing:
 - ``` conda activate sunpy-tutorial```
 
 Note your prompt should change and now have `sunpy-tutorial` near the start. If you want to list all your conda environments you can type
-``` conda info -e```. You should see `base` which is your base enviroment, the `stellar_ssw` one, and any others you have created! 
+``` conda info -e```. You should see `base` which is your base enviroment, the `sunpy-tutorial` one, and any others you have created! 
 
 ##### 2.2 Updating the environment.yml file
 If an update is made to the `environment.yml` file then you will need to type 
