@@ -81,7 +81,7 @@ You can also install new packages in this environment by using `conda install <p
 
 ### 3. Start a jupyter notebook!
 
-Once you have your environment activated (remember to first type `sunpy-tutorial`) then in your local STELLAR_SSW repository type
+Once you have your environment activated (remember to first type `sunpy-tutorial`) then in your local `solarorbiter-summerschool-sunpy` repository type
 
 - ```jupyter notebook ```
 
